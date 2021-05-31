@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link href="main.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,600" rel="stylesheet">
     <meta name="salesforce-community" content="https://uat-bergec.cs129.force.com/AppMovil">
     <meta name="salesforce-client-id" content="3MVG90J3nJBMnqrQGsSVKdT50.aeLCsB3yH0WXCJCiaPZISpX8MUvJTDRZSH6UXY4fYlYxFio6E0uF5JhqKTW">
     <meta name="salesforce-redirect-uri" content="https://www.google.es">
