@@ -17,7 +17,4 @@
     <link href="https://uat-bergec.cs129.force.com/AppMovil/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" /> 
     <script src="https://uat-bergec.cs129.force.com/AppMovil/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
 </head>
-<body>
-    Hola Mundo
-</body>
 </html>
