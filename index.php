@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
-    <meta http-equiv="Content-Security-Policy" content="child-src https://uat-bergec.cs129.force.com; frame-ancestors https://embeddedlogin.herokuapp.com;">
     <link href="reset.css" rel="stylesheet">
     <link href="main.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
