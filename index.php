@@ -8,7 +8,7 @@
     <link href="reset.css" rel="stylesheet">
     <link href="main.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Socurce+Sans+Pro:200,300,600" type="text/css" rel="stylesheet">
-    <meta name="salesforce-community" content="https://uat-bergec.cs129.force.com/AppMovil/">
+    <meta name="salesforce-community" content="https://uat-bergec.cs129.force.com/AppMovil">
     <meta name="salesforce-client-id" content="3MVG90J3nJBMnqrQGsSVKdT50.aeLCsB3yH0WXCJCiaPZISpX8MUvJTDRZSH6UXY4fYlYxFio6E0uF5JhqKTW">
     <meta name="salesforce-redirect-uri" content="https://www.google.es/">
     <meta name="salesforce-mode" content="modal">
