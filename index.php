@@ -22,13 +22,4 @@
     <body>
         <div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
     </body>
-    <script type="text/javascript">
-        function onLogin(identity){
-            alert('onLogin');
-        }
-        
-        function onLogout(){
-            alert('onLogout');
-        }
-    </script>
 </html>
