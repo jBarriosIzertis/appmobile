@@ -25,4 +25,32 @@
     <body>
         <div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
     </body>
+    
+    <script>
+    function onLogin(identity) {
+        console.log("hello");
+
+        var targetDiv = document.querySelector(SFIDWidget.config.target);   
+        var img = document.createElement('img'); 
+        img.src = identity.photos.thumbnail; 
+        img.className = "sfid-avatar";
+
+        var username = document.createElement('span'); 
+        username.innerHTML = identity.username;
+        username.className = "sfid-avatar-name";
+
+        var iddiv = document.createElement('div'); 
+        iddiv.id = "sfid-identity";
+        iddiv.appendChild(img);     
+        iddiv.appendChild(username);        
+
+        targetDiv.innerHTML = '';
+        targetDiv.appendChild(iddiv);   
+    }
+
+    function onLogout() {
+        SFIDWidget.init();
+    }
+
+    </script>
 </html>
