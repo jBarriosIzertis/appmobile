@@ -20,7 +20,7 @@
 </head>
     <body></body>
     <script type="text/javascript">
-        function onLogin(){
+        function onLogin(identity){
             alert('onLogin');
         }
         
