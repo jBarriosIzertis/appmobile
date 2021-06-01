@@ -19,4 +19,13 @@
     <script src="https://uat-bergec.cs129.force.com/AppMovil/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
 </head>
     <body></body>
+    <script type="text/javascript">
+        function onLogin(){
+            alert('onLogin');
+        }
+        
+        function onLogout(){
+            alert('onLogout');
+        }
+    </script>
 </html>
