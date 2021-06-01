@@ -18,7 +18,9 @@
     <link href="https://uat-bergec.cs129.force.com/AppMovil/servlet/servlet.loginwidgetcontroller?type=css" rel="stylesheet" type="text/css" /> 
     <script src="https://uat-bergec.cs129.force.com/AppMovil/servlet/servlet.loginwidgetcontroller?type=javascript_widget" async defer></script>
 </head>
-    <body></body>
+    <body>
+        <div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
+    </body>
     <script type="text/javascript">
         function onLogin(identity){
             alert('onLogin');
